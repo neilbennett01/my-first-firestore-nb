@@ -12,6 +12,7 @@
   "dependencies": {
     "-": "^0.0.1",
     "admin": "^1.4.1",
-    "firebase": "^9.7.0"
+    "firebase": "^9.7.0",
+    "firebase-admin": "^10.1.0"
   }
 }
